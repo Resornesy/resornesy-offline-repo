@@ -1,6 +1,6 @@
 {
-  "last-version": "1.0.1",
-  "description": "YY工具箱Free 1.0.1版本推出!\n新增: 1.SYN洪水攻击，加强算法，榨干CPU性能!在网络好的情况下，1min发出800GB+流量!\n2.SSL洪水，通过不断SSL握手榨干服务器带宽，实测1min发出20W+握手，土豆服务器杀手!\n3.随机小姐姐头像:采用高稳定API，2s爬取高质量头像。\n安全更新: 加强错误处理，无需提前pip下载包，增强稳定性。",
-  "url": "https://raw.githubusercontent.com/Resornesy/resornesy-offline-repo/main/yyfree-1.0.1.py",
+  "last-version": "1.0.10",
+  "description": "YY工具箱Free 1.0.10版本推出!\n新增: 1.SYN洪水攻击，加强算法，榨干CPU性能!在网络好的情况下，1min发出800GB+流量!\n2.SSL洪水，通过不断SSL握手榨干服务器带宽，实测1min发出20W+握手，土豆服务器杀手!\n3.随机小姐姐头像:采用高稳定API，2s爬取高质量头像。\n安全更新: 加强错误处理，无需提前pip下载包，增强稳定性。",
+  "url": "https://raw.githubusercontent.com/Resornesy/resornesy-offline-repo/main/yyfree-1.0.10.py",
   "date": "2025-11-15"
 }
