@@ -1,0 +1,10 @@
+{
+  "last-version": "1.0",
+  "status": "beta",
+  "date": "2025-11-22",
+  "description": "LetQR 是一款完全免费的离线工具，帮助用户快速生成各类 QR 码（二维码）。",
+  "author": "resornesy",
+  "app": "android",
+  "sdk": 1,
+  "download": "https://raw.githubusercontent.com/Resornesy/resornesy-offline-repo/main/LetQR.apk"
+}
