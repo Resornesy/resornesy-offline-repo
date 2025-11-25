@@ -1,5 +1,5 @@
 {
-  "last-version": "1.0.10",
+  "last-version": "1.0.11",
   "description": "YY工具箱Free 1.0.11版本推出!\n新增: RSA对称加密，ChaCha20加密。\n安全更新: 优化了整体稳定性，改善了SYN洪水的算法。",
   "url": "https://raw.githubusercontent.com/Resornesy/resornesy-offline-repo/main/yyfree-1.0.11.py",
   "date": "2025-11-25"
