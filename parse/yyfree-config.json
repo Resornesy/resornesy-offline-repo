@@ -1,6 +1,6 @@
 {
-  "last-version": "1.0.11",
-  "description": "YY工具箱Free 1.0.11版本推出!\n新增: RSA对称加密，ChaCha20加密。\n安全更新: 优化了整体稳定性，改善了SYN洪水的算法。",
-  "url": "https://raw.githubusercontent.com/Resornesy/resornesy-offline-repo/main/yyfree-1.0.11.py",
-  "date": "2025-11-25"
+  "last-version": "1.0.12",
+  "description": "YY工具箱Free 1.0.12版本推出!\n新增: 高频短信轰炸:10s可达60条!\n关于短信轰炸的特别说明: 短信轰炸单次仅可轰炸一个号码，第二次继续轰炸同一个号码会被服务器拒绝。",
+  "url": "https://raw.githubusercontent.com/Resornesy/resornesy-offline-repo/main/yyfree-1.0.12.py",
+  "date": "2025-11-26"
 }
