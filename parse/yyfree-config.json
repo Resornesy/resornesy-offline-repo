@@ -1,6 +1,6 @@
 {
-  "last-version": "1.0.13",
-  "description": "YY工具箱Free 1.0.13版本推出!\n更新内容: 新增二要素验证V2，以解决原二要素验证无法使用的问题。",
-  "url": "https://raw.githubusercontent.com/Resornesy/resornesy-offline-repo/main/yyfree-1.0.13.py",
-  "date": "2025-11-28"
+  "last-version": "1.0.20",
+  "description": "YY工具箱Free 1.0.20版本推出!\n更新内容: 修复了安装依赖后无法启动模块的问题。\n修复了无法写入文件的问题。\n修复了AES加密引用错误的问题。\n新增公告系统，可以实时查看发布的消息/公告。\n修改了专区/功能列表的排列显示，更简洁美观。\n新增了短信轰炸V2接口，100+API轮番轰炸，速度飞快!\n处理了一些安全问题。\n创建了官方网站: yyfree.lilys.top",
+  "url": "https://raw.githubusercontent.com/Resornesy/resornesy-offline-repo/main/yyfree-1.0.20.py",
+  "date": "2025-11-30"
 }
