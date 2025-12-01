@@ -1,6 +1,6 @@
 {
-  "last-version": "1.0.20",
-  "description": "YY工具箱Free 1.0.20版本推出!\n更新内容: 修复了安装依赖后无法启动模块的问题。\n修复了无法写入文件的问题。\n修复了AES加密引用错误的问题。\n新增公告系统，可以实时查看发布的消息/公告。\n修改了专区/功能列表的排列显示，更简洁美观。\n新增了短信轰炸V2接口，100+API轮番轰炸，速度飞快!\n处理了一些安全问题。\n创建了官方网站: yyfree.lilys.top",
-  "url": "https://raw.githubusercontent.com/Resornesy/resornesy-offline-repo/main/yyfree-1.0.20.py",
-  "date": "2025-11-30"
+  "last-version": "1.0.21",
+  "description": "YY工具箱Free 1.0.21版本推出!\n更新内容: 修复了一直被人诟病的安装模块问题，将需要安装很久的模块留给用户自由选择。\n修复了Windows端的清屏命令",
+  "url": "https://raw.githubusercontent.com/Resornesy/resornesy-offline-repo/main/yyfree-1.0.21.py",
+  "date": "2025-12-01"
 }
