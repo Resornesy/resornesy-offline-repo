@@ -139,7 +139,7 @@ for key, value in option_list.items():
 try:
     vf = pathlib.Path("/storage/emulated/0/YYtools/yyfree/version")
     vf.parent.mkdir(parents=True, exist_ok=True)
-    vf.write_text("1.0.21", encoding="utf-8")
+    vf.write_text("1.0.25-alpha", encoding="utf-8")
 except OSError:
     print("\\033[31m请开启'管理所有文件'权限以写入必要文件!\033[0m")
 
